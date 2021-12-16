@@ -1,0 +1,8 @@
+docs
+data_generator_assets/hdris
+data_generator_assets/hdris_*
+data_generator_assets/texts
+data_generator_assets/texts_*
+data_generator_output
+data_generator_output_*
+*.blend1

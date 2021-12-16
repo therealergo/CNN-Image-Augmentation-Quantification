@@ -1,0 +1,1 @@
+./blender-2.93.6-linux-x64/blender --background ./data_generator.blend -P data_generator_script.py --python-use-system-env
